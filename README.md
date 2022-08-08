@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Stk-79.
-- 👀 I’m interested in Learning & Exploring new innovations and technologies taking place day by day in Tech sector,Love coding very much since i was in 8th standard.
+- 👋 Hii, Myself Sarthak Pati.
+- 👀 I’m interested in Learning & Exploring new innovations and technologies taking place day by day in Tech sector,Love coding very much since I was in 8th standard.
 - 🌱 Currently pursuing B-Tech in Computer Engineering & learning more of Programming skills in depth.
 - 💞️ Looking forward to collaborate on ...
 - 📫 How to reach me ->  
