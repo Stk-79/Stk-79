@@ -1,10 +1,12 @@
-<iframe align="right" src="https://giphy.com/embed/ySfbG3WEEgA9nCS7rN" width="400" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<h1 align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?color=%&lines=Hii there👋, I'm Sarthak Pati.">
-</h1>
-<h4 align="center" >A budding & passionate Web Developer from INDIA.</h4>
 
-```yaml
+<h1 align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?color=%&lines=Hii+there👋,+I'm+Sarthak+Pati.">
+</h1>
+<h3 align="center" >A budding & passionate Web Developer from INDIA.</h3>
+<iframe align="right" src="https://giphy.com/embed/ySfbG3WEEgA9nCS7rN" width="400" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="#"></a></p>
+
+###🪶 About me 
+```yml
 Name: Sarthak Pati
 Pronouns: He/Him
 Located_in: Rourkela, India
@@ -35,11 +37,10 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="40"/> </a>
 </p>
 
-<h4>📌Activity Grounds:</h4> 
+<h3>📌 Activity Grounds:</h3> 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Stk-79) [![Quora Badge](https://img.shields.io/badge/-Sarthak%20Pati-brown?style=flat&logo=Quora&logoColor=white&link=https://www.quora.com/profile/Sarthak-Pati-4)](https://www.quora.com/profile/Sarthak-Pati-4) <a href="https://twitter.com/sarthakpati14" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakpati14?logo=twitter&style=flat" alt="sarthakpati14" /></a>
 
-<br>
 <h3 align="center">- Visitors -</h3>
 <a align="center" href="https://profile-counter.glitch.me/{Stk-79}/count.svg">
 
@@ -48,13 +49,13 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 </a>
 
 ---
-<h4 align="center">📋Github Stats :</h4>
+<h3 align="center">📋 Github Stats :</h3>
 <table align="center" >
  <tr>
  <td>
-    <p><a href="https://github.com/Stk-79">
+    <p><a href="#">
 
-   ![GitHub Streak](https://streak-stats.demolab.com?user=Stk-79&theme=neon-dark&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D) 
+   ![GitHub Streak](https://streak-stats.demolab.com?user=Stk-79&theme=neon-dark&border_radius=6&date_format=j%20M%5B%20Y%5D) 
     </a></p>
  </td>
  <td >
@@ -70,18 +71,19 @@ Hobbies: ["Photography", "Music", "Volleyball"]
     <a href="https://github.com/Stk-79"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stk-79&show_icons=true&border_radius=6&theme=algolia&locale=en&layout=compact" alt="stk-79" /></a>
 </div>
 
-<h4 align="left">📫&nbsp Connect with me :</h4>
+<h3 align="left">📫&nbsp Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarthak-pati-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-pati-007" height="30" width="40" /></a>
+<a href="https://twitter.com/sarthakpati14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakpati14" height="30" width="40" /></a>
 <a href="https://dev.to/stk_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stk_79" height="30" width="40" /></a>
 <a href="https://instagram.com/vdj_sarthak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vdj_sarthak_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarthak07_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthak07_dev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sarthak07_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthak07_dev" height="40" width="40" /></a>
 </p>
 
 <br>
-<div> <img src="https://octodex.github.com/images/NUX_Octodex.gif" align="right" height="280" width="250"> </div>
+<div> <img src="https://octodex.github.com/images/NUX_Octodex.gif" height="220" width="220" align="right" > </div>
 
-<h4>🏆 Github Trophies : </h4>
+<h3 alin="left">🏆 Github Trophies : </h3>
 <p align="left"> <a href="https://github.com/Stk-79"><img src="https://github-profile-trophy.vercel.app/?username=stk-79&theme=darkhub&margin-w=2"/></a></p>
 
 <br>
