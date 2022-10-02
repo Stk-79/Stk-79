@@ -3,8 +3,6 @@
 </h1>
 
 <h3 align="center" >A budding & passionate Web Developer from INDIA.</h3>
-<iframe align="right" src="https://giphy.com/embed/ySfbG3WEEgA9nCS7rN" width="350" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/agency-web-primitve-ySfbG3WEEgA9nCS7rN"></a></p>
-
 <h3 align="left">🪶 About me :</h3>
 
   ```yml
@@ -84,7 +82,7 @@
 <h3 alin="left">🏆 Github Trophies : </h3>
 <p align="left"> <a href="https://github.com/Stk-79"><img src="https://github-profile-trophy.vercel.app/?username=stk-79&theme=darkhub&margin-w=2"/></a></p>
 
-<div > <img src="https://octodex.github.com/images/NUX_Octodex.gif" height="250" width="250" align="left" > </div>
+<img src="https://octodex.github.com/images/NUX_Octodex.gif" height="250" width="250" align="left" >
 <br>
 <br>
 <br>
