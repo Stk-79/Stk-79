@@ -1,24 +1,25 @@
-
 <h1 align="center" >
   <img src="https://readme-typing-svg.herokuapp.com?color=%&lines=Hii+there👋,+I'm+Sarthak+Pati.">
 </h1>
-<h3 align="center" >A budding & passionate Web Developer from INDIA.</h3>
-<iframe align="right" src="https://giphy.com/embed/ySfbG3WEEgA9nCS7rN" width="400" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="#"></a></p>
 
-###🪶 About me 
-```yml
-Name: Sarthak Pati
-Pronouns: He/Him
-Located_in: Rourkela, India
-Education: B.Tech. 2nd Year Student @SIT,Bhubaneswar
-Fields_of_interests:
-  [
-    "Web Development",
-    "UI/UX Designing",
-    "Cyber Security"
-  ]
-Hobbies: ["Photography", "Music", "Volleyball"]
-```
+<h3 align="center" >A budding & passionate Web Developer from INDIA.</h3>
+<iframe align="right" src="https://giphy.com/embed/ySfbG3WEEgA9nCS7rN" width="350" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/agency-web-primitve-ySfbG3WEEgA9nCS7rN"></a></p>
+
+<h3 align="left">🪶 About me :</h3>
+
+  ```yml
+  Name: Sarthak Pati
+  Pronouns: He/Him
+  Located_in: Rourkela, India
+  Education: B.Tech. 2nd Year Student @SIT,Bhubaneswar
+  Fields_of_interests:
+    [
+      "Web Development",
+      "UI/UX Designing",
+      "Cyber Security"
+    ]
+  Hobbies: ["Photography", "Music", "Volleyball"]
+  ```
 
 - 🌱 I’m currently learning **JavaScript.**
 
@@ -39,7 +40,7 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 
 <h3>📌 Activity Grounds:</h3> 
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Stk-79) [![Quora Badge](https://img.shields.io/badge/-Sarthak%20Pati-brown?style=flat&logo=Quora&logoColor=white&link=https://www.quora.com/profile/Sarthak-Pati-4)](https://www.quora.com/profile/Sarthak-Pati-4) <a href="https://twitter.com/sarthakpati14" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakpati14?logo=twitter&style=flat" alt="sarthakpati14" /></a>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Stk-79) [![Quora Badge](https://img.shields.io/badge/-Sarthak%20Pati-brown?style=flat&logo=Quora&logoColor=white&link=https://www.quora.com/profile/Sarthak-Pati-4)](https://www.quora.com/profile/Sarthak-Pati-4) <a href="https://twitter.com/sarthakpati14" target="blank"><img src="https://img.shields.io/twitter/follow/Sarthakpati14?logo=twitter&style=flat" alt="sarthakpati14" /></a>
 
 <h3 align="center">- Visitors -</h3>
 <a align="center" href="https://profile-counter.glitch.me/{Stk-79}/count.svg">
@@ -80,14 +81,15 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 <a href="https://www.hackerrank.com/sarthak07_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthak07_dev" height="40" width="40" /></a>
 </p>
 
-<br>
-<div> <img src="https://octodex.github.com/images/NUX_Octodex.gif" height="220" width="220" align="right" > </div>
-
 <h3 alin="left">🏆 Github Trophies : </h3>
 <p align="left"> <a href="https://github.com/Stk-79"><img src="https://github-profile-trophy.vercel.app/?username=stk-79&theme=darkhub&margin-w=2"/></a></p>
 
+<div > <img src="https://octodex.github.com/images/NUX_Octodex.gif" height="250" width="250" align="left" > </div>
 <br>
-<div align="center">
+<br>
+<br>
+<br>
+<div align="right">
     <img src="https://madewithlove.now.sh/in?heart=true&colorA=%230a0a0a&colorB=%23e70756&template=for-the-badge" alt="Made with love in India">
 </div>
 
