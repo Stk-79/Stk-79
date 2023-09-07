@@ -30,7 +30,7 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 
 </p>
 
-<h2>📌 Activity Grounds:</h2>
+<h3>📌 Activity Grounds:</h3> 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Stk-79) [![Quora Badge](https://img.shields.io/badge/-Sarthak%20Pati-brown?style=flat&logo=Quora&logoColor=white&link=https://www.quora.com/profile/Sarthak-Pati-4)](https://www.quora.com/profile/Sarthak-Pati-4) <a href="https://twitter.com/sarthakpati14" target="blank"><img src="https://img.shields.io/twitter/follow/Sarthakpati14?logo=twitter&style=flat" alt="sarthakpati14" /></a>
 
@@ -42,8 +42,7 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 </a>
 
 ---
-
-<h2 align="center">📋 Github Stats :</h2>
+<h3 align="center">📋 Github Stats :</h3>
 <table align="center" >
  <tr>
  <td>
