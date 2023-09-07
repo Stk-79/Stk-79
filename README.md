@@ -10,7 +10,12 @@ Name: Sarthak Pati
 Pronouns: He/Him
 Located_in: Bhubaneswar, India
 Education: B.Tech. 3rd Year Student @SIT,Bhubaneswar
-Fields_of_interests: ["Web Development", "Cloud Computing", "Cyber Security"]
+Fields_of_interests: 
+  [
+    "Web Development", 
+    "Cloud Computing", 
+    "Cyber Security"
+  ]
 Hobbies: ["Photography", "Music", "Volleyball"]
 ```
 
@@ -62,7 +67,7 @@ Hobbies: ["Photography", "Music", "Volleyball"]
     <a href="https://github.com/Stk-79"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stk-79&show_icons=true&border_radius=6&theme=algolia&locale=en&layout=compact" alt="stk-79" /></a>
 </div>
 
-<h3 align="left">📫&nbsp Connect with me :</h3>
+<h2 align="left">📫&nbsp Connect with me :</h2>
 <p align="left">
 <a href="https://linkedin.com/in/sarthak-pati-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-pati-007" height="30" width="40" /></a>
 <a href="https://twitter.com/sarthakpati14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakpati14" height="30" width="40" /></a>
@@ -71,14 +76,9 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 <a href="https://www.hackerrank.com/sarthak07_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthak07_dev" height="40" width="40" /></a>
 </p>
 
-<h3 alin="left">🏆 Github Trophies : </h3>
+<h2 alin="left">🏆 Github Trophies : </h2>
 <p align="left"> <a href="https://github.com/Stk-79"><img src="https://github-profile-trophy.vercel.app/?username=stk-79&theme=darkhub&margin-w=2"/></a></p>
-
-<div > <img src="https://octodex.github.com/images/NUX_Octodex.gif" height="250" width="250" align="left" > </div>
 <br>
-<br>
-<br>
-<br>
-<div align="right">
+<div align="center">
     <img src="https://madewithlove.now.sh/in?heart=true&colorA=%230a0a0a&colorB=%23e70756&template=for-the-badge" alt="Made with love in India">
 </div>
