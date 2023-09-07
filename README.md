@@ -24,7 +24,7 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 <h2 align="left">🔧 Languages and Tools:</h2>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,mongodb,express,nodejs,js,python,java,postman,vscode,atom,mysql,linux,git,eclipse,aws,md,netlify&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,mongodb,express,nodejs,js,python,java,postman,vscode,atom,mysql,linux,git,eclipse,aws,md,netlify)
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="35" alt="npm logo"  /> -->
 
