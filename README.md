@@ -9,13 +9,8 @@
 Name: Sarthak Pati
 Pronouns: He/Him
 Located_in: Bhubaneswar, India
-Education: B.Tech. 3rd Year Student @SIT,Bhubaneswar
-Fields_of_interests: 
-  [
-    "Web Development", 
-    "Cloud Computing", 
-    "Cyber Security"
-  ]
+Education: B.Tech. 4th Year Student @SIT,Bhubaneswar
+Fields_of_interests: ["Web Development", "Cloud Computing", "Cyber Security"]
 Hobbies: ["Photography", "Music", "Volleyball"]
 ```
 
@@ -24,24 +19,31 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 <h2 align="left">🔧 Languages and Tools:</h2>
 <p align="left">
 
-![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,mongodb,express,nodejs,js,python,java,postman,vscode,atom,mysql,linux,git,eclipse,aws,md,netlify)
+| Language                                                                             | Frontend                                                                                            |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| ![Language](https://skillicons.dev/icons?i=js,python,java,c,matlab)                  | ![Frontend](https://skillicons.dev/icons?i=react,redux,html,css,materialui,bootstrap,tailwind,sass) |
+| Backend                                                                              | Cloud & DB                                                                                          |
+| ![Backend](https://skillicons.dev/icons?i=express,nodejs,nextjs,postman)             | ![Cloud&DB](https://skillicons.dev/icons?i=aws,mongodb,prisma,mysql,firebase)                       |
+| Tools                                                                                | Others                                                                                              |
+| ![Tools](https://skillicons.dev/icons?i=vscode,atom,idea,eclipse,pycharm,jest,figma) | ![Others](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,netlify)                     |
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="35" alt="npm logo"  /> -->
 
 </p>
 
-<h3>📌 Activity Grounds:</h3> 
+<h3>📌 Activity Grounds:</h3>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Stk-79) [![Quora Badge](https://img.shields.io/badge/-Sarthak%20Pati-brown?style=flat&logo=Quora&logoColor=white&link=https://www.quora.com/profile/Sarthak-Pati-4)](https://www.quora.com/profile/Sarthak-Pati-4) <a href="https://twitter.com/sarthakpati14" target="blank"><img src="https://img.shields.io/twitter/follow/Sarthakpati14?logo=twitter&style=flat" alt="sarthakpati14" /></a>
 
 <h3 align="center">- Visitors -</h3>
 <a align="center" href="https://profile-counter.glitch.me/{Stk-79}/count.svg">
 
-![VisitorCount](https://profile-counter.glitch.me/{Stk-79}/count.svg)
+<!-- ![VisitorCount](https://profile-counter.glitch.me/{Stk-79}/count.svg) -->
 
 </a>
 
 ---
+
 <h3 align="center">📋 Github Stats :</h3>
 <table align="center" >
  <tr>
@@ -70,9 +72,7 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 <p align="left">
 <a href="https://linkedin.com/in/sarthak-pati-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-pati-007" height="30" width="40" /></a>
 <a href="https://twitter.com/sarthakpati14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakpati14" height="30" width="40" /></a>
-<a href="https://dev.to/stk_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="stk_79" height="30" width="40" /></a>
-<a href="https://instagram.com/vdj_sarthak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vdj_sarthak_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarthak07_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthak07_dev" height="40" width="40" /></a>
+<a href="https://instagram.com/mr_s.r.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vdj_sarthak_" height="30" width="40" /></a>
 </p>
 
 <h2 alin="left">🏆 Github Trophies : </h2>
