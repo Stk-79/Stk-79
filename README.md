@@ -19,13 +19,15 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 <h2 align="left">🔧 Languages and Tools:</h2>
 <p align="left">
 
-| Language                                                                             | Frontend                                                                                            |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| ![Language](https://skillicons.dev/icons?i=js,python,java,c,matlab)                  | ![Frontend](https://skillicons.dev/icons?i=react,redux,html,css,materialui,bootstrap,tailwind,sass) |
-| Backend                                                                              | Cloud & DB                                                                                          |
-| ![Backend](https://skillicons.dev/icons?i=express,nodejs,nextjs,postman)             | ![Cloud&DB](https://skillicons.dev/icons?i=aws,mongodb,prisma,mysql,firebase)                       |
-| Tools                                                                                | Others                                                                                              |
-| ![Tools](https://skillicons.dev/icons?i=vscode,atom,idea,eclipse,pycharm,jest,figma) | ![Others](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,netlify)                     |
+| Language                                                                                                    | Frontend                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| ![Language](https://skillicons.dev/icons?i=js,python,java,c,matlab)                                         | ![Frontend](https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,materialui,tailwind,sass,threejs) |
+| Backend                                                                                                     | Cloud & DataBase                                                                                            |
+| ![Backend](https://skillicons.dev/icons?i=express,nodejs,nextjs,postman)                                    | ![Cloud&DB](https://skillicons.dev/icons?i=aws,mongodb,prisma,mysql,firebase)                               |
+| Tools                                                                                                       | Hands-On                                                                                                    |
+| ![Tools](https://skillicons.dev/icons?i=jest,vite,git,npm,powershell,netlify)                               | ![Aware-Of](https://skillicons.dev/icons?i=arduino,raspberrypi,latex,bash,linux,ubuntu,kali)                |
+| Beginner                                                                                                    | Others                                                                                                      |
+| ![New](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,jenkins,prometheus,grafana,go,ts) | ![Others](https://skillicons.dev/icons?i=notion,figma,vim,md)                                               |
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="35" alt="npm logo"  /> -->
 
@@ -38,7 +40,7 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 <h3 align="center">- Visitors -</h3>
 <a align="center" href="https://profile-counter.glitch.me/{Stk-79}/count.svg">
 
-<!-- ![VisitorCount](https://profile-counter.glitch.me/{Stk-79}/count.svg) -->
+![VisitorCount](https://profile-counter.glitch.me/{Stk-79}/count.svg)
 
 </a>
 
@@ -68,7 +70,7 @@ Hobbies: ["Photography", "Music", "Volleyball"]
     <a href="https://github.com/Stk-79"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stk-79&show_icons=true&border_radius=6&theme=algolia&locale=en&layout=compact" alt="stk-79" /></a>
 </div>
 
-<h2 align="left">📫&nbsp Connect with me :</h2>
+<h2 align="left">📫&nbspConnect with me :</h2>
 <p align="left">
 <a href="https://linkedin.com/in/sarthak-pati-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-pati-007" height="30" width="40" /></a>
 <a href="https://twitter.com/sarthakpati14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakpati14" height="30" width="40" /></a>
