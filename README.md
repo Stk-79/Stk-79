@@ -41,13 +41,15 @@ Hobbies: ["Photography", "Music", "Volleyball"]
 <!-- <a href="https://twitter.com/sarthakpati14" target="blank"><img src="https://img.shields.io/twitter/follow/Sarthakpati14?logo=twitter&style=flat" alt="sarthakpati14" /></a> -->
 
 <h3 align="center">- Visitors -</h3>
-<a align="center" href="https://komarev.com/ghpvc/?username=Stk-79&style=flat-square">
+<div align="center">
+<a align="center" href="https:github.com/Stk-79">
 
 <!-- ![VisitorCount](https://profile-counter.glitch.me/{Stk-79}/count.svg) -->
 
 ![VisitorCount](https://komarev.com/ghpvc/?username=Stk-79&style=flat-square)
 
 </a>
+</div>
 
 ---
 
