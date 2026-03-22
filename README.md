@@ -14,21 +14,21 @@ Fields_of_interests: ["Web Development", "Cloud Computing", "Cyber Security"]
 Hobbies: ["Photography", "Music", "Volleyball"]
 ```
 
-- 🍁 Worked on **MERN Stack Development.**
+- 🍁 Worked on **MERN Stack.**
 - 🌱 Currently working on **Java - Spring Boot applications & DevOps.**
 
 <h2 align="left">🔧 Languages and Tools:</h2>
 <p align="left">
 
-| Language                                                                                                    | Frontend                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| ![Language](https://skillicons.dev/icons?i=js,python,java,c,matlab)                                         | ![Frontend](https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,materialui,tailwind,sass,threejs) |
-| Backend                                                                                                     | Cloud & DataBase                                                                                            |
-| ![Backend](https://skillicons.dev/icons?i=express,nodejs,nextjs,postman)                                    | ![Cloud&DB](https://skillicons.dev/icons?i=aws,mongodb,prisma,mysql,firebase)                               |
-| Tools                                                                                                       | Hands-On                                                                                                    |
-| ![Tools](https://skillicons.dev/icons?i=jest,vite,git,npm,powershell,netlify)                               | ![Aware-Of](https://skillicons.dev/icons?i=arduino,raspberrypi,latex,bash,linux,ubuntu,kali)                |
-| Beginner                                                                                                    | Others                                                                                                      |
-| ![New](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,jenkins,prometheus,grafana,go,ts) | ![Others](https://skillicons.dev/icons?i=notion,figma,vim,md)                                               |
+| Language                                                                                                 | Frontend                                                                                                    |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| ![Language](https://skillicons.dev/icons?i=java,ts,js,python,c,matlab)                                   | ![Frontend](https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,materialui,tailwind,sass,threejs) |
+| Backend                                                                                                  | Cloud & DataBase                                                                                            |
+| ![Backend](https://skillicons.dev/icons?i=spring,express,nodejs,nextjs,postman)                          | ![Cloud&DB](https://skillicons.dev/icons?i=aws,postgres,mysql,mongodb,prisma,firebase)                      |
+| Tools                                                                                                    | Hands-On                                                                                                    |
+| ![Tools](https://skillicons.dev/icons?i=jest,vite,git,npm,powershell,netlify)                            | ![Aware-Of](https://skillicons.dev/icons?i=latex,bash,linux,ubuntu,kali)                                    |
+| Beginner                                                                                                 | Others                                                                                                      |
+| ![New](https://skillicons.dev/icons?i=docker,jenkins,kubernetes,terraform,ansible,prometheus,grafana,go) | ![Others](https://skillicons.dev/icons?i=notion,figma,vim,md)                                               |
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="35" alt="npm logo"  /> -->
 
