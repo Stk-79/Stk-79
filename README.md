@@ -9,7 +9,6 @@
 Name: Sarthak Pati
 Pronouns: He/Him
 Located_in: Bangalore, India
-Education: B.Tech @SIT,Bhubaneswar
 Fields_of_interests: ["Web Development", "Cloud Computing", "Cyber Security"]
 Hobbies: ["Photography", "Music", "Volleyball"]
 ```
